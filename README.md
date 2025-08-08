@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sahayak AI - AI-Powered Educational Assistant
 
 <div align="center">
@@ -938,3 +939,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
     Supporting teachers, empowering students, transforming education
   </p>
 </div>
+=======
+# Shayak-Ai
+>>>>>>> f1a97d243c28efe7ef166fbdb883914162da8407
