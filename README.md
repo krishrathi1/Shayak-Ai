@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sahayak AI - AI-Powered Educational Assistant
 
 <div align="center">
