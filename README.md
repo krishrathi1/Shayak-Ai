@@ -1,4 +1,4 @@
-# Sahayak AI - AI-Powered Educational Assistant
+ # Sahayak AI - AI-Powered Educational Assistant
 
 <div align="center">
   <img src="public/image.png" alt="Sahayak AI Logo" width="200"/>
